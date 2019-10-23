@@ -11,5 +11,6 @@ system("pause");
 \\gfshfdshgfsdhgdf
 \\dsabgsahdilgjdsfjdasfkjdsaf dal kfla skla k
 \\dsgdcsfgdsgdsghdsgds fds gd sg gdgsdf
+cout<<"Hello world\n";
 return 0;
 }
