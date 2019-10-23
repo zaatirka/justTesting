@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-cout<<"Created new repository"<<endl;
+cout<<"Created new repository"<<endl;//programm shows "..."
 system ("pause");
 return 0;
 }
