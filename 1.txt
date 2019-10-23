@@ -2,7 +2,13 @@
 using namespace std;
 int main()
 {
-
+int size;
+cout<<"Enter size: ";
+cin>>size;
+for (int i = 0; i<size; i++)
+{
+cout<<"Created new repository"<<endl;//programm shows "..."
+}
 system ("pause");
 return 0;
 }
