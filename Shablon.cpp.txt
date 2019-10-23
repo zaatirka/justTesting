@@ -8,5 +8,6 @@ cout<<"Hello world\n";
 cout<<"Hello world\n";
 cout<<"Hello world\n";
 system("pause");
+\\gfshfdshgfsdhgdf
 return 0;
 }
